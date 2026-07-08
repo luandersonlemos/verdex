@@ -24,6 +24,10 @@ Abre em [http://localhost:5174](http://localhost:5174)
 - Cartão virtual com bloqueio/desbloqueio
 - Perfil
 
+## Repositório
+
+https://github.com/luandersonlemos/verdex
+
 ## Deploy (Vercel)
 
 **Produção:** https://fintech-app-nine-tan.vercel.app
