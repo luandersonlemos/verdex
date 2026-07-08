@@ -11,6 +11,19 @@ Banco digital minimalista — projeto de portfólio front-end com UI inspirada e
 | **Demo ao vivo** | [fintech-app-nine-tan.vercel.app](https://fintech-app-nine-tan.vercel.app) |
 | **Repositório** | [github.com/luandersonlemos/verdex](https://github.com/luandersonlemos/verdex) |
 
+## Preview
+
+<p align="center">
+  <img src="docs/screenshots/home.png" alt="Tela inicial do Verdex" width="280" />
+  <img src="docs/screenshots/pix.png" alt="Tela PIX do Verdex" width="280" />
+  <img src="docs/screenshots/extrato.png" alt="Extrato do Verdex" width="280" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/cartao.png" alt="Cartão virtual do Verdex" width="280" />
+  <img src="docs/screenshots/investimentos.png" alt="Investimentos do Verdex" width="280" />
+</p>
+
 ## Visão do produto
 
 Simulação de banco digital focada em **experiência de usuário** e **interface mobile-first**.  
